@@ -1,1 +1,1 @@
-a script that generates the assembly code of a C code
+a script that compiles a C file and creates an executable
